@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654964234129",
+    "project_id": "login-flutter-test-4aa9c",
+    "storage_bucket": "login-flutter-test-4aa9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654964234129:android:bb86ec29452e6b6e346c30",
+        "android_client_info": {
+          "package_name": "com.miraclestudios.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654964234129-d2rhi7vkj9mhivptpob20hrr8t7qhmu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaISc6v1g4ufS4RAqRU40d8LukW5Qhiew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654964234129-d2rhi7vkj9mhivptpob20hrr8t7qhmu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
